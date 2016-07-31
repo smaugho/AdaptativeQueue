@@ -59,7 +59,7 @@ public class TunedQueue {
 					Thread.sleep(sleepTime);
 					
 					if (count > this.maxWorkers) {
-						System.out.println("Waiting for release of workers");
+						System.out.println("Waiting for workers");
 						continue;
 					}
 					
