@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.DataInputStream;
 import java.io.InputStreamReader;
 
-public class AdaptativeQueue {
+public class TunedQueue {
 	
 	public static boolean alive = false;
 	
