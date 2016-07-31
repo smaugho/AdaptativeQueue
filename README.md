@@ -12,7 +12,7 @@ The Tuned Queue launches 1 Worker every a certein interval of time, and controls
 How to use
 -----------
 
-* Place the TunedQueue.jar in your Laravel Route folder 
+* Place the TunedQueue.jar located in the "jar" folder into your Laravel Route folder 
 * Run the jar with `java -jar TunedQueue.jar <Max Workers> <Time millisecond>`
 
 Example
